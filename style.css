@@ -1,0 +1,11 @@
+#colour {
+border-color: black;
+border-style: dotted;
+border-width: 2px;
+}
+
+#colour2 {
+  border-color: black;
+border-style: dashed;
+border-width: 2px;
+}
